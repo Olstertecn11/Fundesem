@@ -1,0 +1,6 @@
+.nav-links-container>a:hover {
+  text-decoration: underline !important;
+  text-underline-offset: 8px !important;
+  text-decoration-color: green !important;
+  text-decoration-thickness: 6px !important;
+}
